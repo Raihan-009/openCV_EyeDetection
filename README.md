@@ -35,8 +35,9 @@ cv2.destroyAllWindows()
 ```
 
 <p align = "center">
-    <img src = "https://github.com/Raihan-009/openCV_FaceDetection/blob/main/results/staticFaceDetection.png">
+    <img src = "https://github.com/Raihan-009/openCV_EyeDetection/blob/main/results/staticEyeDetectionExample.png">
 </p>
+
 
 > For Dynamic or Real Time Eye Detection
 
